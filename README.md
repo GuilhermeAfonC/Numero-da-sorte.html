@@ -70,7 +70,6 @@ http://localhost/numero-surpresa
 * [ ] Persistência do histórico com localStorage
 * [ ] Animações na exibição da resposta
 * [ ] Indicador de carregamento (loading)
-* [ ] Separação de arquivos (CSS e JS externos)
 * [ ] Personalização de respostas por categoria
 
 ---
